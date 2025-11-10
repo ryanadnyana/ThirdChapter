@@ -260,7 +260,7 @@ img {
 
 /*==================== HOME ====================*/
 .home {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/assets/img/BG.png);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/BG.png');
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -498,7 +498,7 @@ img{
 
 .cover {
   height: 250px;
-  background: url(/assets/img/album.png) no-repeat center/cover;
+  background: url('../img/album.png') no-repeat center/cover;
     }
 .info {
   padding: 20px;
@@ -541,7 +541,7 @@ audio{
   row-gap: 3.5rem;
 }
 .footer__bg {
-  background: url(https://ryyanna.github.io/ThirdAnniversary/assets/img/BG.png);
+  background: url('../img/BG.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
