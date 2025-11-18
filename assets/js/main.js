@@ -134,4 +134,6 @@ themeButton.addEventListener('click', () => {
     playPauseBtn.textContent = '▶';
     isPlaying = false;
   });
+// set tahun copyright
+document.getElementById("copyright").innerHTML = `&copy; ${new Date().getFullYear()} ThirdChapter. All Rights Reserved`;
 
